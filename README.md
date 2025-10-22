@@ -1,5 +1,6 @@
 # Java-OOP-Mini-Projects
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)Overview
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+Overview
 A compact portfolio of Java exercises demonstrating solid OOP, collections & arrays, enums, validation & exceptions, file I/O, interfaces & polymorphism, and numeric/business logic.
 Each mini-project models a small, realistic domain (grades, payroll, timetables, billing, rainfall, pizza orders, colour mixing, student tracking, hotel charges) and is designed to pass strict JUnit tests with exact output formatting.
 
