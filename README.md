@@ -3,7 +3,7 @@ Overview
 A compact portfolio of Java exercises demonstrating solid OOP, collections & arrays, enums, validation & exceptions, file I/O, interfaces & polymorphism, and numeric/business logic.
 Each mini-project models a small, realistic domain (grades, payroll, timetables, billing, rainfall, pizza orders, colour mixing, student tracking, hotel charges) and is designed to pass strict JUnit tests with exact output formatting.
 
-This was a solo project
+This was a solo university coursework project completed in my First Year
 
  
 Features
